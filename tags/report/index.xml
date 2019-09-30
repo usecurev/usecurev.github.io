@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UsecureV | Personal Blog</title>
-    <link>https://usecurev.github.io/</link>
-    <description>Recent content on UsecureV | Personal Blog</description>
+    <title>Report on UsecureV | Personal Blog</title>
+    <link>https://usecurev.github.io/tags/report/</link>
+    <description>Recent content in Report on UsecureV | Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://usecurev.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://usecurev.github.io/tags/report/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://usecurev.github.io/report-ip2location-bypass-demo/</guid>
       <description>Note: It no longer works.
  The IP2location team already solved this problem the next day I made a report, I didn&amp;rsquo;t receive any response, they just silently fixed it.</description>
-    </item>
-    
-    <item>
-      <title>The first post</title>
-      <link>https://usecurev.github.io/first-post-blog/</link>
-      <pubDate>Sun, 29 Sep 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://usecurev.github.io/first-post-blog/</guid>
-      <description>Here I will publish a bit of my experience as a security researcher reporting vulnerabilities and what I have learned in this area.</description>
     </item>
     
   </channel>
